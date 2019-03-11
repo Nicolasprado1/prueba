@@ -1,2 +1,2 @@
-# prueba
+# L0
 lab 0
