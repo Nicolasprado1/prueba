@@ -1,0 +1,11 @@
+   60  cd prueba/
+   61  git add
+   62  git add *
+   63  git commit - m "bla"
+   64  git commit -m "bla"
+   65  git push *
+   66  git push.
+   67  git push *
+   68  git push
+   69  git pull
+   70  history
